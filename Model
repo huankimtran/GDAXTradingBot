@@ -1,0 +1,11 @@
+|0---------------------------Exchange-----------------------|
+|1--MarketStack---|----OrderStack----|-----AccountStack-----|
+|2-OrderBook      | Order            |      Account         |
+| -TradeStack     |                  |                      |
+
+          
+
+
+          |Strategy|
+
+an Account will implement a Strategy
